@@ -1,0 +1,33 @@
+.row{
+    border-bottom:2px solid grey;
+    padding-bottom:40px;
+    padding-top:40px;
+
+}
+.image{
+    width:300px;
+    height: 300px;
+    border: 1px solid black;
+    margin:auto;
+    background-color: gray;
+    margin-top: 20px;
+    background-size: cover;
+    background-position: center;
+}
+.profile_pics{
+    width:200px;
+    background-color:grey;
+    height:200px;
+    border-radius: 50%;
+    margin:auto;
+}
+.profile_numbs{
+    width:25%;
+    float: left;
+    margin-top:40px;
+}
+.bio{
+    width:100%;
+    float:left;
+    margin-top:40px;
+}
